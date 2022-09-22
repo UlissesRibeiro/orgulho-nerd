@@ -1,0 +1,76 @@
+  /* Style all font awesome icons */
+  .fa {
+    padding: 5px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .bi-facebook {
+  ;
+    color: white;
+  }
+  
+  
+  .bi {
+    padding: 1px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .bi:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .bi-whatsapp {
+  
+    color: white;
+  }
+  .bi-instagram {
+  
+    color: white;
+  }
+  .bi-youtube {
+  
+  color: white;
+  }
+
+  #umEd{
+    background-image: url("/media/img/logo.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    }
+    #doisEd{
+    background-image: url("/media/img/logo.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    }
+    #tresEd{
+    background-image: url("/media/img/logo.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    }
